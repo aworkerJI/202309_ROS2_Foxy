@@ -1,0 +1,4 @@
+Invoking command in '/home/mintji/ros2_foxy/build/ros_rclpy_package_msgs': /usr/bin/cmake --build /home/mintji/ros2_foxy/build/ros_rclpy_package_msgs -- -j8 -l8
+Invoked command in '/home/mintji/ros2_foxy/build/ros_rclpy_package_msgs' returned '0': /usr/bin/cmake --build /home/mintji/ros2_foxy/build/ros_rclpy_package_msgs -- -j8 -l8
+Invoking command in '/home/mintji/ros2_foxy/build/ros_rclpy_package_msgs': /usr/bin/cmake --install /home/mintji/ros2_foxy/build/ros_rclpy_package_msgs
+Invoked command in '/home/mintji/ros2_foxy/build/ros_rclpy_package_msgs' returned '0': /usr/bin/cmake --install /home/mintji/ros2_foxy/build/ros_rclpy_package_msgs

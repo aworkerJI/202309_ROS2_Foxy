@@ -1,0 +1,6 @@
+{
+  "package_name": "ros_rclpy_package_msgs",
+  "non_idl_tuples": [
+    "/home/mintji/ros2_foxy/src/ros_rclpy_package_msgs:srv/MultiSpawn.srv"
+  ]
+}

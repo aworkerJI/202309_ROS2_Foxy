@@ -1,0 +1,5 @@
+[console_scripts]
+my_first_node = ros_rclpy_package.my_first_node:main
+my_publisher = ros_rclpy_package.my_publisher:main
+my_service_server = ros_rclpy_package.my_service_server:main
+

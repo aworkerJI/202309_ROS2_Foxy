@@ -1,0 +1,29 @@
+  File "/home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages/ros_rclpy_package/my_service_server.py", line 64
+    ''' 
+    def timer_callback(self):
+        print('timer_callback')
+        msg = Twist()
+        msg.angular.z = 1.0
+        for n in range(1, self.make_num+1):
+            t_node1 = '/turtle'
+            t_node2 = str(n)
+            t_node3 = '/cmd_vel'
+            turtle_node = t_node1 + t_node2 + t_node3
+            self.pub = self.test_node.create_publisher(Twist, turtle_node, 10)
+            self.pub.publish(msg)
+    ''''
+        
+                             
+                               
+                     
+                           
+                                           
+                               
+                            
+                                
+                                                     
+                                                                              
+                                 
+        ^
+SyntaxError: EOL while scanning string literal
+

@@ -1,0 +1,122 @@
+[0.312s] Invoking command in '/home/mintji/ros2_foxy/build/ros_rclpy_package_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mintji/ros2_foxy/install/ros_rclpy_package:/home/mintji/ros2_study/install/my_first_rclpy_package:/opt/ros/foxy /usr/bin/cmake --build /home/mintji/ros2_foxy/build/ros_rclpy_package_msgs -- -j8 -l8
+[0.373s] [  3%] Built target ros_rclpy_package_msgs__cpp
+[0.379s] [ 12%] Built target ros_rclpy_package_msgs__rosidl_generator_c
+[0.425s] [ 32%] Built target ros_rclpy_package_msgs__rosidl_typesupport_introspection_cpp
+[0.425s] [ 32%] Built target ros_rclpy_package_msgs__rosidl_typesupport_cpp
+[0.431s] [ 41%] Built target ros_rclpy_package_msgs__rosidl_typesupport_fastrtps_cpp
+[0.434s] [ 51%] Built target ros_rclpy_package_msgs__rosidl_typesupport_introspection_c
+[0.435s] [ 61%] Built target ros_rclpy_package_msgs__rosidl_typesupport_c
+[0.462s] [ 70%] Built target ros_rclpy_package_msgs__rosidl_typesupport_fastrtps_c
+[0.489s] [ 70%] Built target ros_rclpy_package_msgs
+[0.517s] [ 74%] Built target ros_rclpy_package_msgs__py
+[0.551s] [ 80%] Built target ros_rclpy_package_msgs__python
+[0.583s] [ 93%] Built target ros_rclpy_package_msgs__rosidl_typesupport_c__pyext
+[0.583s] [ 93%] Built target ros_rclpy_package_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.586s] [100%] Built target ros_rclpy_package_msgs__rosidl_typesupport_introspection_c__pyext
+[0.599s] Invoked command in '/home/mintji/ros2_foxy/build/ros_rclpy_package_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mintji/ros2_foxy/install/ros_rclpy_package:/home/mintji/ros2_study/install/my_first_rclpy_package:/opt/ros/foxy /usr/bin/cmake --build /home/mintji/ros2_foxy/build/ros_rclpy_package_msgs -- -j8 -l8
+[0.687s] Invoking command in '/home/mintji/ros2_foxy/build/ros_rclpy_package_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mintji/ros2_foxy/install/ros_rclpy_package:/home/mintji/ros2_study/install/my_first_rclpy_package:/opt/ros/foxy /usr/bin/cmake --install /home/mintji/ros2_foxy/build/ros_rclpy_package_msgs
+[0.697s] -- Install configuration: ""
+[0.697s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ament_index/resource_index/rosidl_interfaces/ros_rclpy_package_msgs
+[0.698s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs
+[0.698s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg
+[0.699s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.700s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv
+[0.700s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/multi_spawn.h
+[0.701s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail
+[0.701s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__functions.h
+[0.702s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__type_support.h
+[0.702s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__struct.h
+[0.702s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__functions.c
+[0.703s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/environment/library_path.sh
+[0.703s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/environment/library_path.dsv
+[0.703s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/libros_rclpy_package_msgs__rosidl_generator_c.so
+[0.704s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs
+[0.704s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg
+[0.705s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.705s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv
+[0.705s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail
+[0.705s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__rosidl_typesupport_fastrtps_c.h
+[0.705s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/libros_rclpy_package_msgs__rosidl_typesupport_fastrtps_c.so
+[0.705s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs
+[0.705s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg
+[0.705s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__rosidl_typesupport_fastrtps_cpp.hpp
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/dds_fastrtps
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/libros_rclpy_package_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail
+[0.706s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__type_support.c
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__rosidl_typesupport_introspection_c.h
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/libros_rclpy_package_msgs__rosidl_typesupport_introspection_c.so
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/libros_rclpy_package_msgs__rosidl_typesupport_c.so
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/multi_spawn.hpp
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__struct.hpp
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__builder.hpp
+[0.707s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__traits.hpp
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__type_support.hpp
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__rosidl_typesupport_introspection_cpp.hpp
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/include/ros_rclpy_package_msgs/srv/detail/multi_spawn__type_support.cpp
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/libros_rclpy_package_msgs__rosidl_typesupport_introspection_cpp.so
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/libros_rclpy_package_msgs__rosidl_typesupport_cpp.so
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/environment/pythonpath.sh
+[0.708s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/environment/pythonpath.dsv
+[0.709s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/python3.8/site-packages/ros_rclpy_package_msgs/__init__.py
+[0.747s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/python3.8/site-packages/ros_rclpy_package_msgs/srv
+[0.747s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/python3.8/site-packages/ros_rclpy_package_msgs/srv/_multi_spawn.py
+[0.748s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/python3.8/site-packages/ros_rclpy_package_msgs/srv/_multi_spawn_s.c
+[0.748s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/python3.8/site-packages/ros_rclpy_package_msgs/srv/__init__.py
+[0.748s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/python3.8/site-packages/ros_rclpy_package_msgs/ros_rclpy_package_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[0.749s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/python3.8/site-packages/ros_rclpy_package_msgs/ros_rclpy_package_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[0.750s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/python3.8/site-packages/ros_rclpy_package_msgs/ros_rclpy_package_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[0.751s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/lib/libros_rclpy_package_msgs__python.so
+[0.751s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/srv/MultiSpawn.idl
+[0.752s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/srv/MultiSpawn.srv
+[0.752s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/srv/MultiSpawn_Request.msg
+[0.753s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/srv/MultiSpawn_Response.msg
+[0.753s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ament_index/resource_index/package_run_dependencies/ros_rclpy_package_msgs
+[0.754s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ament_index/resource_index/parent_prefix_path/ros_rclpy_package_msgs
+[0.754s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/environment/ament_prefix_path.sh
+[0.754s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/environment/ament_prefix_path.dsv
+[0.755s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/environment/path.sh
+[0.756s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/environment/path.dsv
+[0.756s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/local_setup.bash
+[0.756s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/local_setup.sh
+[0.756s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/local_setup.zsh
+[0.757s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/local_setup.dsv
+[0.757s] -- Installing: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/package.dsv
+[0.757s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ament_index/resource_index/packages/ros_rclpy_package_msgs
+[0.757s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_generator_cExport.cmake
+[0.757s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.757s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.757s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.757s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_typesupport_cExport.cmake
+[0.758s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.758s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_generator_cppExport.cmake
+[0.759s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.759s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.760s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_typesupport_cppExport.cmake
+[0.760s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.762s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/rosidl_cmake-extras.cmake
+[0.765s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.765s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.765s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.766s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.766s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.767s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.767s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgsConfig.cmake
+[0.768s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/cmake/ros_rclpy_package_msgsConfig-version.cmake
+[0.768s] -- Up-to-date: /home/mintji/ros2_foxy/install/ros_rclpy_package_msgs/share/ros_rclpy_package_msgs/package.xml
+[0.769s] Invoked command in '/home/mintji/ros2_foxy/build/ros_rclpy_package_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mintji/ros2_foxy/install/ros_rclpy_package:/home/mintji/ros2_study/install/my_first_rclpy_package:/opt/ros/foxy /usr/bin/cmake --install /home/mintji/ros2_foxy/build/ros_rclpy_package_msgs

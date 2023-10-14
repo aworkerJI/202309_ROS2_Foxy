@@ -1,0 +1,37 @@
+[0.713s] Invoking command in '/home/mintji/ros2_foxy/src/ros_rclpy_package': PYTHONPATH=/home/mintji/ros2_foxy/build/ros_rclpy_package/prefix_override:/home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_rclpy_package build --build-base /home/mintji/ros2_foxy/build/ros_rclpy_package/build install --record /home/mintji/ros2_foxy/build/ros_rclpy_package/install.log --install-scripts $base/lib/ros_rclpy_package --single-version-externally-managed
+[0.948s] running egg_info
+[0.949s] creating ../../build/ros_rclpy_package/ros_rclpy_package.egg-info
+[0.950s] writing ../../build/ros_rclpy_package/ros_rclpy_package.egg-info/PKG-INFO
+[0.950s] writing dependency_links to ../../build/ros_rclpy_package/ros_rclpy_package.egg-info/dependency_links.txt
+[0.950s] writing entry points to ../../build/ros_rclpy_package/ros_rclpy_package.egg-info/entry_points.txt
+[0.950s] writing requirements to ../../build/ros_rclpy_package/ros_rclpy_package.egg-info/requires.txt
+[0.950s] writing top-level names to ../../build/ros_rclpy_package/ros_rclpy_package.egg-info/top_level.txt
+[0.952s] writing manifest file '../../build/ros_rclpy_package/ros_rclpy_package.egg-info/SOURCES.txt'
+[0.996s] reading manifest file '../../build/ros_rclpy_package/ros_rclpy_package.egg-info/SOURCES.txt'
+[0.997s] writing manifest file '../../build/ros_rclpy_package/ros_rclpy_package.egg-info/SOURCES.txt'
+[0.997s] running build
+[0.998s] running build_py
+[0.999s] creating /home/mintji/ros2_foxy/build/ros_rclpy_package/build
+[0.999s] creating /home/mintji/ros2_foxy/build/ros_rclpy_package/build/lib
+[0.999s] creating /home/mintji/ros2_foxy/build/ros_rclpy_package/build/lib/ros_rclpy_package
+[0.999s] copying ros_rclpy_package/__init__.py -> /home/mintji/ros2_foxy/build/ros_rclpy_package/build/lib/ros_rclpy_package
+[1.001s] copying ros_rclpy_package/my_first_node.py -> /home/mintji/ros2_foxy/build/ros_rclpy_package/build/lib/ros_rclpy_package
+[1.001s] running install
+[1.002s] running install_lib
+[1.002s] creating /home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages/ros_rclpy_package
+[1.003s] copying /home/mintji/ros2_foxy/build/ros_rclpy_package/build/lib/ros_rclpy_package/__init__.py -> /home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages/ros_rclpy_package
+[1.003s] copying /home/mintji/ros2_foxy/build/ros_rclpy_package/build/lib/ros_rclpy_package/my_first_node.py -> /home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages/ros_rclpy_package
+[1.004s] byte-compiling /home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages/ros_rclpy_package/__init__.py to __init__.cpython-38.pyc
+[1.004s] byte-compiling /home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages/ros_rclpy_package/my_first_node.py to my_first_node.cpython-38.pyc
+[1.004s] running install_data
+[1.005s] creating /home/mintji/ros2_foxy/install/ros_rclpy_package/share/ament_index
+[1.005s] creating /home/mintji/ros2_foxy/install/ros_rclpy_package/share/ament_index/resource_index
+[1.005s] creating /home/mintji/ros2_foxy/install/ros_rclpy_package/share/ament_index/resource_index/packages
+[1.006s] copying resource/ros_rclpy_package -> /home/mintji/ros2_foxy/install/ros_rclpy_package/share/ament_index/resource_index/packages
+[1.006s] copying package.xml -> /home/mintji/ros2_foxy/install/ros_rclpy_package/share/ros_rclpy_package
+[1.006s] running install_egg_info
+[1.009s] Copying ../../build/ros_rclpy_package/ros_rclpy_package.egg-info to /home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages/ros_rclpy_package-0.0.0-py3.8.egg-info
+[1.009s] running install_scripts
+[1.033s] Installing my_first_node script to /home/mintji/ros2_foxy/install/ros_rclpy_package/lib/ros_rclpy_package
+[1.034s] writing list of installed files to '/home/mintji/ros2_foxy/build/ros_rclpy_package/install.log'
+[1.082s] Invoked command in '/home/mintji/ros2_foxy/src/ros_rclpy_package' returned '0': PYTHONPATH=/home/mintji/ros2_foxy/build/ros_rclpy_package/prefix_override:/home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_rclpy_package build --build-base /home/mintji/ros2_foxy/build/ros_rclpy_package/build install --record /home/mintji/ros2_foxy/build/ros_rclpy_package/install.log --install-scripts $base/lib/ros_rclpy_package --single-version-externally-managed

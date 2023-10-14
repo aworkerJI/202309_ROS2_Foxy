@@ -1,0 +1,9 @@
+  File "/home/mintji/ros2_foxy/install/ros_rclpy_package/lib/python3.8/site-packages/ros_rclpy_package/my_service_server.py", line 103
+    '''
+        self.turn_in_place(len(theta))
+        ''''
+       
+                                      
+           ^
+SyntaxError: EOL while scanning string literal
+
